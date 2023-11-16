@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T16:25:03.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DaIw8zGtkbNrtHbMp3VH" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T16:31:15.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DgaqJ0lK8A0sjkwR4bHB" version="22.1.0" type="github">
   <diagram name="Page-1" id="v0UOIoDPRPVzMyCom9GH">
     <mxGraphModel dx="3387" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1493,6 +1493,9 @@
               <mxPoint x="350" y="895" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CKVr6M9JNd8T3pU-VtKq-554" value="Here i have forgoten exactly what was the use of UserType and User Types with this Schema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-470" width="170" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
